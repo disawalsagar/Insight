@@ -1,2 +1,2 @@
 # Insight
-Java 1.8
+JRE 1.7
